@@ -1,0 +1,15 @@
+/Users/user/Desktop/DZ4/ThirdWork/bin/Debug/net7.0/ThirdWork
+/Users/user/Desktop/DZ4/ThirdWork/bin/Debug/net7.0/ThirdWork.deps.json
+/Users/user/Desktop/DZ4/ThirdWork/bin/Debug/net7.0/ThirdWork.runtimeconfig.json
+/Users/user/Desktop/DZ4/ThirdWork/bin/Debug/net7.0/ThirdWork.dll
+/Users/user/Desktop/DZ4/ThirdWork/bin/Debug/net7.0/ThirdWork.pdb
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.csproj.AssemblyReference.cache
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.AssemblyInfoInputs.cache
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.AssemblyInfo.cs
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.dll
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/refint/ThirdWork.dll
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.pdb
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ThirdWork.genruntimeconfig.cache
+/Users/user/Desktop/DZ4/ThirdWork/obj/Debug/net7.0/ref/ThirdWork.dll
