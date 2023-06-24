@@ -1,0 +1,15 @@
+/Users/user/Desktop/DZ4/SecondWork/bin/Debug/net7.0/SecondWork
+/Users/user/Desktop/DZ4/SecondWork/bin/Debug/net7.0/SecondWork.deps.json
+/Users/user/Desktop/DZ4/SecondWork/bin/Debug/net7.0/SecondWork.runtimeconfig.json
+/Users/user/Desktop/DZ4/SecondWork/bin/Debug/net7.0/SecondWork.dll
+/Users/user/Desktop/DZ4/SecondWork/bin/Debug/net7.0/SecondWork.pdb
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.csproj.AssemblyReference.cache
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.AssemblyInfoInputs.cache
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.AssemblyInfo.cs
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.dll
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/refint/SecondWork.dll
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.pdb
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/SecondWork.genruntimeconfig.cache
+/Users/user/Desktop/DZ4/SecondWork/obj/Debug/net7.0/ref/SecondWork.dll
